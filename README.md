@@ -1,5 +1,5 @@
 # cube19 UI Coding Test
-
+Test Commit
 ## Overview
 We're looking for a small React SPA (single-page-application) that emulates a leaderboard. The aim of this exercise is to test your ability to write clean maintainable code and your understanding of the React library.
 
